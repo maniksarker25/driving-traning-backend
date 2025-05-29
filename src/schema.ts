@@ -16,6 +16,7 @@
 //     isDeleted boolean
 //     appleId string
 //     googleId string
+//
 
 // }
 
